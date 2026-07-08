@@ -103,6 +103,7 @@ Netflix-Data-Cleaning-Visualization
 
 ![Netflix Dashboard](netflix_dashboard.png)
 
+The dashboard summarizes key insights, including content distribution, top genres, top countries, and release trends.
 ---
 
 ## 👨‍💻 Author
