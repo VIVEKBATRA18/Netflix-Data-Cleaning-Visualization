@@ -99,6 +99,12 @@ Netflix-Data-Cleaning-Visualization
 
 ---
 
+## 📊 Dashboard Preview
+
+![Netflix Dashboard](netflix_dashboard.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Vivek Batra**
